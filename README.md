@@ -10,10 +10,10 @@
 
 ## Github Stats:
 
-
+<p  align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khuowngduy0511&theme=tokyonight&layout=compact&langs_count=6"></p> 
 <p  align="center"><img src="https://github-readme-stats.vercel.app/api?username=khuowngduy0511&theme=tokyonight&show_icons=true&count_private=true"></p>
 <p  align="center">&nbsp;<img  src="https://github-readme-streak-stats.herokuapp.com/?user=khuowngduy0511&theme=tokyonight"/></p>
-<p  align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khuowngduy0511&theme=tokyonight&layout=compact&langs_count=6"></p> 
+
 
 
 # Certificates:
